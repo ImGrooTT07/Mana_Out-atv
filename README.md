@@ -159,22 +159,17 @@ Mana Out/
 
 ##  Tela de Login
 
-```text
-/img/image
-```
+<img width="1911" height="909" alt="Image" src="https://github.com/user-attachments/assets/7e85e1d6-bf7b-42ca-bf8d-2264e21a973b" />
+
 
 ---
 
 ##  Tela Principal
 
-```text
-/img/image2
-```
+<img width="1903" height="816" alt="Image" src="https://github.com/user-attachments/assets/2c533e83-523e-4a6d-b980-3d2c31d47e32" />
 
 ---
 
 ##  Cadastro de Jogos
 
-```text
-/img/image3
-```
+<img width="1899" height="551" alt="Image" src="https://github.com/user-attachments/assets/a99022bc-b085-4f3e-8abb-caa7dc1f9e07" />
